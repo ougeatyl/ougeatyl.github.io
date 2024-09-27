@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ougeatyl.github.io/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/app/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/assets/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/css/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/data/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/includes/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/item/sitemap.ougeatyl.gz
+Sitemap: https://ougeatyl.github.io/src/sitemap.ougeatyl.gz
